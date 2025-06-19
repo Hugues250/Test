@@ -10,7 +10,7 @@ http://localhost:8080/user/save
 For Search By id use Get Method and replace the real id 
 http://localhost:8080/user/7c2e0a20-90d4-4afe-bb1d-c99915e20bd4
 
-Database using postges
+Database using postgres
 name of database: test_db
 
 
